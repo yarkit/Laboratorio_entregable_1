@@ -1,0 +1,16 @@
+header {
+
+    background-color: #84b8f0;
+    color: rgb(30, 35, 107);
+    padding: 10px 0;
+    text-align: center;
+}
+img {
+
+    width: 50px;
+}
+
+.perro{
+    padding-left: 35%;
+    width: 100px;
+}
